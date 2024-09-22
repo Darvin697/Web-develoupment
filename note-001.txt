@@ -1,0 +1,12 @@
+here we have to know to things tags and attributes 
+
+
+list ---> oredered list        un oredered list
+
+            ol - start          ul - start 
+            li ---> can be used in both parts
+
+
+
+table ----> 
+
