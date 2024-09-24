@@ -1,0 +1,21 @@
+.outer-box{
+    border: solid 5px;
+    border-color: red;
+    background: lightblue;
+    color: beige;
+    width: 300px;
+    height: 200px;
+}
+
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+
+
+.inner-box{
+    margin: 10px;
+    background: greenyellow;
+    width: 200px;
+    height: 100px;
+}
