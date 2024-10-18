@@ -1,3 +1,30 @@
 .calc{
-    padding-left: 100px;
+   height: 600px;
+   width: 400px;
+   background: grey;
+   margin-left: 400px;
 }
+#screen{
+    width: 85%;
+    height: 40px;
+    margin-left: 28px;
+    margin-top: 20px;
+    pointer-events: none;
+}
+.btn{
+    height: 35px;
+    width: 82px;
+    margin-left: 12px;
+    margin-top: 39px;
+    background-color: coral;
+}
+.eq{
+
+    height: 35px;
+    width: 82px;
+    margin-left: 303px;
+    margin-top: 39px;
+    background-color: coral;
+}
+
+
